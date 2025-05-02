@@ -1,0 +1,6 @@
+.github/
+tests/
+.gitignore
+.tflint.hcl
+mise.toml
+.pre-commit-config.yaml
