@@ -1,0 +1,3 @@
+AVD-AWS-0089 # (LOW) Bucket has logging disabled
+AVD-AWS-0090 # (MEDIUM) Bucket does not have versioning enabled
+AVD-AWS-0132 # (HIGH) S3 encryption should use Customer Managed Keys
